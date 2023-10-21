@@ -1,4 +1,4 @@
-`SCP:Foundation　　 ⎯　　❐　　⤬　`
+`SCP:Foundation　 ⎯　　❐　　⤬　`
 
 ˃**Nick** `ㄥ丨ㄒ乇`
 
