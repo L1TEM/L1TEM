@@ -8,6 +8,8 @@
 
 ˃**GitHub** ||https://github.com/L1TEM||
 
+˃**Discord**|| l1te_lycoris
+
 ˃**Discord** ||https://discord.com/invite/d9v2fY8SAB||
 
 Information:{
