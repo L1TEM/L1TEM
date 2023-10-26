@@ -15,8 +15,5 @@
 Information:{
 From:Russian Federation
 Bithday:20.03.2009
-Additional:{
-Hi, I am a novice developer, I am 14 years old and I live in Russia in Chelyabinsk , I am studying the Python computer language I started studying on 10/20/2023
-}
 }
 
